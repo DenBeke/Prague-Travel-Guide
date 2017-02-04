@@ -14,7 +14,7 @@
 		C76D30921E4539FE00376C1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76D30901E4539FE00376C1E /* LaunchScreen.storyboard */; };
 		C76D309A1E453B4900376C1E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30991E453B4900376C1E /* TableViewController.swift */; };
 		C76D309C1E4541D800376C1E /* page.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D309B1E4541D800376C1E /* page.swift */; };
-		C76D309E1E454D9300376C1E /* pages in Resources */ = {isa = PBXBuildFile; fileRef = C76D309D1E454D9300376C1E /* pages */; };
+		C76D30A01E4553A300376C1E /* pages in Resources */ = {isa = PBXBuildFile; fileRef = C76D309F1E4553A300376C1E /* pages */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		C76D30931E4539FE00376C1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C76D30991E453B4900376C1E /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		C76D309B1E4541D800376C1E /* page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = page.swift; sourceTree = "<group>"; };
-		C76D309D1E454D9300376C1E /* pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pages; sourceTree = "<group>"; };
+		C76D309F1E4553A300376C1E /* pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pages; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 		C76D30861E4539FE00376C1E /* Praag */ = {
 			isa = PBXGroup;
 			children = (
-				C76D309D1E454D9300376C1E /* pages */,
+				C76D309F1E4553A300376C1E /* pages */,
 				C76D30871E4539FE00376C1E /* AppDelegate.swift */,
 				C76D30891E4539FE00376C1E /* ViewController.swift */,
 				C76D308B1E4539FE00376C1E /* Main.storyboard */,
@@ -105,6 +105,7 @@
 				TargetAttributes = {
 					C76D30831E4539FE00376C1E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 2H55825CLX;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -133,7 +134,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C76D30921E4539FE00376C1E /* LaunchScreen.storyboard in Resources */,
-				C76D309E1E454D9300376C1E /* pages in Resources */,
+				C76D30A01E4553A300376C1E /* pages in Resources */,
 				C76D308F1E4539FE00376C1E /* Assets.xcassets in Resources */,
 				C76D308D1E4539FE00376C1E /* Main.storyboard in Resources */,
 			);
@@ -272,6 +273,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2H55825CLX;
 				INFOPLIST_FILE = Praag/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = denbeke.Praag;
@@ -284,6 +286,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2H55825CLX;
 				INFOPLIST_FILE = Praag/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = denbeke.Praag;

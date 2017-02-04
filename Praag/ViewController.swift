@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         pageTitle.title = inputPage.name
-        var pageUrl = Bundle.main.url(forResource: "pages/\(inputPage.url)", withExtension: "html")
+        let pageUrl = Bundle.main.url(forResource: "pages/\(inputPage.url)", withExtension: "html")
         pageView.loadRequest(URLRequest(url: pageUrl!))
         
     }
