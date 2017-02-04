@@ -13,9 +13,9 @@
 		C76D30921E4539FE00376C1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76D30901E4539FE00376C1E /* LaunchScreen.storyboard */; };
 		C76D309A1E453B4900376C1E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30991E453B4900376C1E /* TableViewController.swift */; };
 		C76D309C1E4541D800376C1E /* page.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D309B1E4541D800376C1E /* page.swift */; };
-		C76D30A01E4553A300376C1E /* pages in Resources */ = {isa = PBXBuildFile; fileRef = C76D309F1E4553A300376C1E /* pages */; };
 		C76D30A21E45BB7B00376C1E /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A11E45BB7B00376C1E /* Media.xcassets */; };
 		C76D30A41E45BCAB00376C1E /* praag-sky.png in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A31E45BCAB00376C1E /* praag-sky.png */; };
+		C76D30A61E463D6E00376C1E /* pages in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A51E463D6E00376C1E /* pages */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,9 +27,9 @@
 		C76D30931E4539FE00376C1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C76D30991E453B4900376C1E /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		C76D309B1E4541D800376C1E /* page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = page.swift; sourceTree = "<group>"; };
-		C76D309F1E4553A300376C1E /* pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pages; sourceTree = "<group>"; };
 		C76D30A11E45BB7B00376C1E /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		C76D30A31E45BCAB00376C1E /* praag-sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "praag-sky.png"; sourceTree = "<group>"; };
+		C76D30A51E463D6E00376C1E /* pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pages; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 			children = (
 				C76D30A11E45BB7B00376C1E /* Media.xcassets */,
 				C76D30A31E45BCAB00376C1E /* praag-sky.png */,
-				C76D309F1E4553A300376C1E /* pages */,
+				C76D30A51E463D6E00376C1E /* pages */,
 				C76D30871E4539FE00376C1E /* AppDelegate.swift */,
 				C76D30891E4539FE00376C1E /* ViewController.swift */,
 				C76D308B1E4539FE00376C1E /* Main.storyboard */,
@@ -137,8 +137,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C76D30A21E45BB7B00376C1E /* Media.xcassets in Resources */,
+				C76D30A61E463D6E00376C1E /* pages in Resources */,
 				C76D30921E4539FE00376C1E /* LaunchScreen.storyboard in Resources */,
-				C76D30A01E4553A300376C1E /* pages in Resources */,
 				C76D308D1E4539FE00376C1E /* Main.storyboard in Resources */,
 				C76D30A41E45BCAB00376C1E /* praag-sky.png in Resources */,
 			);
