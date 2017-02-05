@@ -45,7 +45,7 @@ The building, which was formerly owned by Prague Water Company, has housed the S
 
 ![](assets/2560px-Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg)
 
-![](https://i.ytimg.com/vi/JGAOIaN36-E/maxresdefault.jpg)
+![](assets/charles_b11.jpg)
 
 De Karelsbrug (Tsjechisch: Karlův most) is een beroemde brug over de Vltava (Moldau). De brug verbindt de Oude Stad met de wijk Malá Strana.
 
@@ -129,7 +129,7 @@ Het oude koninklijk paleis van Praag (starý královský palác) is een deel van
 
 ## Bazilika svatého Jiří (Sint-Jorisbasiliek)
 
-![](assets/1920px-Prague_Castle_St_George.JPG)
+![](assets/5380173-46b967.jpg)
 
 De Sint-Jorisbasiliek (Tsjechisch: Bazilika svatého Jiří) is een basiliek in de wijk Hradčany van de Tsjechische hoofdstad Praag. De basiliek is de oudste kerk binnen de Praagse burcht, waar ook de Sint-Vituskathedraal staat. Oorspronkelijk werd de kerk rond het jaar 920 gebouwd, waarmee het de tweede Christelijke kerk was binnen het gebied dat nu Praag heet. In de eerste helft van de 12e eeuw werd de kerk herbouwd in romaanse stijl. De barokke gevel van de Sint-Jorisbasiliek stamt uit de 17e eeuw.
 
