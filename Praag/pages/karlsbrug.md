@@ -1,6 +1,3 @@
-Over Karlsbrug naar Malá Strana
-
-
 ## Clam-Gallasův palác
 
 ![](assets/clam_gallas.jpg)
