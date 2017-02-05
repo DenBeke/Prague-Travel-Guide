@@ -13,7 +13,7 @@ Over Karlsbrug wandelen tot aan toeristische dienst. Deze is voorbij de Malostra
 
 Vandaaruit kunnen we verder doorheen de parken terug naar de Oude Stad. 
 
-![](assets/a-prague-parks-1.jpg.aspx?width=3500&height=2333&ext=.jpg)
+![](assets/a-prague-parks-1.jpg)
 
 
 ### Valdštejnský paleis en Národní gallerij

@@ -15,12 +15,12 @@ class TableViewController: UITableViewController {
     
     override func viewDidLoad() {
         names = [
-            Page(name: "Karlstein", url: "Karlstein"),
-            Page(name: "Dagje Langs Petrin", url: "Petrin"),
-            Page(name: "Over Karlsbrug naar Malá Strana", url: "karlsbrug"),
             Page(name: "Kennismaken met Praag", url: "oudestad"),
+            Page(name: "Dagje langs Petrin", url: "Petrin"),
+            Page(name: "Over Karlsbrug naar Malá Strana", url: "karlsbrug"),
+            Page(name: "Daguitstap naar Karlstein", url: "Karlstein"),
             Page(name: "Hotel", url: "hotel"),
-            //Page(name: "Test", url: "https://apple.com")
+            Page(name: "Restaurants", url: "restaurants"),
         ]
     }
 
