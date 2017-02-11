@@ -1,4 +1,4 @@
-**Best Western Hotel Pav**
+### Best Western Hotel Pav
 
 Hotelpro s.r.o.  
 Budečská 796/17  

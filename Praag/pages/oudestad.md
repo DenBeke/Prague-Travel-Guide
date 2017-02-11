@@ -1,4 +1,4 @@
-### Via Karlův Most naar toeristische dienst  
+## Via Karlův Most naar toeristische dienst  
 
 ![](assets/Praag_karelsbrug_1.JPG)
 
@@ -15,9 +15,9 @@ Op de brug staan 30 standbeelden. De meeste zijn in de barokstijl en werden gepl
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2e/Prag_karlsbrücke_kleinseite.jpg)
 
 
-### Doorheen tuinen van Vojanovy sady en Valdštejnská zahrada 
+## Doorheen tuinen van Vojanovy sady en Valdštejnská zahrada 
 
-*Van daaruit kunnen we verder doorheen de parken terug naar de Oude Stad.*
+*Van daaruit kan je verder doorheen de parken terug naar de Oude Stad.*
 
 ![](assets/a-prague-parks-1.jpg)
 
@@ -26,7 +26,7 @@ Vojanovy sady wordt beschouwd als de oudste gedeeltelijk bewaard gebleven tuin i
 Valdštejnská zahrada, Wallensteintuin, is een sieraad van de Praagse barok. Bronzen godenstandbeelden sieren de allée die naar het pronkstuk van de tuin leidt; de Sala Terrena, een loggia met drie bogen en rijkelijk versierd met fresco's. De beelden werden vervaardigd door de Zuid-Nederlandse beeldhouwer Adriaen de Vries die zich ten tijde van Rudolf II in Praag vestigde.
 
 
-### Valdštejnský paleis en Národní gallerij
+## Valdštejnský paleis en Národní gallerij
 
 ![](assets/maxresdefault.jpg)
 
@@ -35,15 +35,15 @@ Het Valdštejnský paleis (Wallenstein Paleis) is gebouwd in opdracht van Albrec
 De Nationale Galerie Praag (Národní galerie v Praze) is een Tsjechisch nationaal museum voor schilderkunst en beeldhouwkunst, gevestigd aan diverse locaties in Praag.
 
 
-### Oude Stad 
+## Oude Stad 
 
 *Over de Mánesův brug wandelen we terug naar de oude stad.*
 
 ![](assets/800x375-1-2.jpg)
 
-*Voor we het oude stadsplein zien, komen we nog bezienswaardigheden tegen op rechteroever:*
+*Voor we het oude stadsplein zien, kom je nog bezienswaardigheden tegen op rechteroever:*
 
-##### Rudolfinum
+#### Rudolfinum
 
 ![](assets/dvorakova-sin_2.jpg)
 
@@ -52,7 +52,7 @@ Het Rudolfinum is een concertgebouw in de Oude Stad van de Tsjechische hoofdstad
 Het concertgebouw is ontworpen door de architecten Josef Zítek en Josef Schulz. Het gebouw werd geopend op 8 februari 1885 en werd genoemd naar Rudolf van Oostenrijk. Tussen 1918 en 1939 was het Rudolfinum het gebouw van het Tsjechoslowaakse parlement.
 
 
-#### Starý židovský hřbitov (Joods kerkhof)
+### Starý židovský hřbitov (Joods kerkhof)
 
 ![](assets/Pha3-Zidovsky-HB-na-Zizkove20_panorama.jpg)
 
@@ -61,14 +61,14 @@ De Oude Joodse Begraafplaats (Tsjechisch: Starý židovský hřbitov) is de ouds
 Het aantal mensen dat op deze begraafplaats begraven ligt is niet vast te stellen, omdat er op sommige plaatsen meerdere lagen (12) van graven boven elkaar liggen. Ondanks de kleine oppervlakte van ongeveer één hectare wordt het aantal grafstenen op ongeveer 12.000 geschat. Vermoedelijk liggen er echter lichamen van zo'n 100.000 mensen. Een aantal bekende personen die hier zijn begraven zijn Jehoeda Löw (overleden 1609), Mordecai Meisel (1601) en David Gans (1613).
 
 
-#### Kostel sv. Ducha (Kerk van Heilige Geest)
+### Kostel sv. Ducha (Kerk van Heilige Geest)
 
 ![](assets/kostelducha.jpg)
 
 De Heilige Geestkerk (Tsjechisch: Kostel svatého Ducha) is een kerk in de Oude Stad van de Tsjechische hoofdstad Praag. De kerk is in de tweede helft van de 14e eeuw gebouwd in gotische stijl. De aan de Heilige Geest gewijde kerk staat aan de straat Dušní.
 
 
-#### Spaanse synagoge
+### Spaanse synagoge
 
 ![](assets/large.jpg)
 
@@ -77,7 +77,7 @@ De Heilige Geestkerk (Tsjechisch: Kostel svatého Ducha) is een kerk in de Oude 
 De Spaanse Synagoge (Spanělská Synagóga) in Stare Mesto is in 1868 gebouwd op de plaats waar vroeger de oudste synagoge van Praag stond. Het huidige 19de-eeuwse gebouw is gebouwd in de Moorse stijl en het sierpleisterwerk doet een beetje denken aan het Alhambra in Granada. In de synagoge vind je een museum over de geschiedenis van de Tsjechische Joodse Gemeenschap tijdens de periodes van verlichting en emancipatie. De gemeenschap van de Spaanse Synagoge is erg open en ze vinden het dan ook geen probleem als er nieuwe mensen in de zaal zitten.
 
 
-### Staroměstské náměstí (Stadsplein Oude Stad)
+## Staroměstské náměstí (Stadsplein Oude Stad)
 
 ![](assets/staromestske-namesti_1920x1158.jpg)
 
@@ -90,7 +90,7 @@ Ook het Oudestadraadhuis (Staroměstská radnice), met er naast het Astronomisch
 
 Bezienswaardigheden rondom het oude stadpslein:
 
-#### Chrám Matky Boží před Týnem (Týnkerk)
+### Chrám Matky Boží před Týnem (Týnkerk)
 
 ![](assets/105489126.jpg)
 
@@ -103,7 +103,7 @@ In de 11e eeuw stond er op de plaats van de huidige Týnkerk een romaanse kerk, 
 In 1679 werd de kerk getroffen door een grote brand. Een groot deel van de voorgevel werd later gerestaureerd.
 
 
-#### Palác Kinských (Kinský paleis)
+### Palác Kinských (Kinský paleis)
 
 ![](assets/fixedw.jpg)
 
@@ -116,7 +116,7 @@ The building was designed by Kilian Ignaz Dientzenhofer and is Rococo in style. 
 Franz Kafka's father, Hermann Kafka, was a haberdasher. He had his store at the palace, which was located on the ground floor. Franz Kafka attended secondary school at the palace, from 1893 until 1901.
 
 
-#### Chrám svatého Mikuláše (Sint-Nicolaas kerk)
+### Chrám svatého Mikuláše (Sint-Nicolaas kerk)
 
 ![](assets/kostel_sv-_mikulase-a28.jpg)
 
@@ -124,7 +124,7 @@ The Church of Saint Nicholas (Czech: Kostel svatého Mikuláše) is a Late-Gothi
 
 The church was formerly used by the Czech and Slovak Orthodox Church. Since 1920 it has been the main church of the Czechoslovak Hussite Church and its Prague diocese.
 
-#### Pražský orloj (Astronomlische klok)
+### Pražský orloj (Astronomlische klok)
 
 ![](assets/prague-astronomical-clock-2.jpg)
 

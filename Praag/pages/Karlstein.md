@@ -1,3 +1,15 @@
+## Vyšehrad
+
+Als je de trein neemt in Praha-Smichov dan moet je zeker eerst langs Vyšehrad wandelen!
+
+![](assets/vysehrad.jpg)
+
+Vyšehrad (Tsjechisch voor 'hoge burcht') is een wijk van de Tsjechische hoofdstad Praag die ten zuiden ligt van de Oude Stad. Het is een toeristische vestingstad met metershoge muren en stadspoorten. Een bekende bezienswaardigheid in de wijk, is de Sint-Petrus-en-Pauluskerk (Kostel sv. Petra a Pavla).
+
+De vesting is in de 10e eeuw door de Přemysliden gesticht en later in romaanse en gotische stijl uitgebreid. Het tegenwoordige uiterlijk wordt bepaald door barokelementen.
+
+Op het kerkhof van Vyšehrad werden onder meer Antonín Dvořák en Bedřich Smetana begraven.
+
 ## Karlstejn
 
 ![](assets/bddf684afbe3494dc8abea12455fc630.jpg)
@@ -8,11 +20,13 @@ Het kasteel werd gebouwd in 1348 in opdracht van Karel IV, koning van Bohemen en
 
 Het meest in het oog springende deel van het kasteel is de 60 meter hoge grote toren, die wel binnen de kasteelmuren staat, maar verder niet met de andere gebouwen van het kasteel is verbonden. Deze toren staat op het hoogste punt van de heuvel en bevat de kapel van het heilige kruis. Iets lager staat de Marian (mindere) toren, die de schatkist bevatte. Ook deze toren staat apart van de andere gebouwen. Op de tweede verdieping liggen de kapellen van de heilige maagd en Sint Catharina. Het keizerlijke paleis ligt aan de zuidoostelijke zijde van het kasteel tegen de buitenmuur. Van daaruit loopt een uitstulping van de muur naar het zuidwesten, waar zich in de zuidelijkste toren de waterput bevindt.
 
+*Zoek zeker eerst de openingsuren op, want in de winter is Karlstein bv enkel open in het weekend.*
+
 ### Oriëntatie
-Vanaf het station is het ongeveer 10 minuten lopen naar het dorp. U verlaat links het station, steekt de rivier over en gaat rechtsaf. Als men eenmaal op de parkeerplaats van het dorp bent is het ongeveer 1 km tot het kasteel, onderweg passeert men verschillende kristal en souvenirwinkeltjes.
+Vanaf het station is het ongeveer 10 minuten lopen naar het dorp. Je verlaat links het station, steekt de rivier over en gaat rechtsaf. Als je eenmaal op de parkeerplaats van het dorp bent is het ongeveer 1 km tot het kasteel, onderweg passeer je verschillende kristal en souvenirwinkeltjes.
 
 ### Daar komen
-35 km van ten zuidwesten van Praag. U kunt een trein nemen naar Beroun van Hlavní Nádraží (centraal station) of Praha-Smíchov en uitstappen bij Karlštejn (40 minuten, vertrekt elk uur). Kaartjes kosten ongeveer 60 CZK.
+35 km van ten zuidwesten van Praag. Je kan de trein nemen naar Beroun van Hlavní Nádraží (centraal station) of Praha-Smíchov en uitstappen bij Karlštejn (40 minuten, vertrekt elk uur). Kaartjes kosten ongeveer 60 CZK.
 
 
 ## Lom Velká Amerika
@@ -32,4 +46,4 @@ Dobřichovice is een stadje in de Tsjechische regio Midden-Bohemen, en maakt dee
 
 De rivier de Berounka stroomt door Dobřichovice.
  
-Heeft enkele restaurantjes
+Het dorpje heeft enkele restaurantjes

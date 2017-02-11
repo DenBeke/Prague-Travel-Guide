@@ -25,6 +25,11 @@ In het Clementinum bevindt zich het eerste Mozarteum van de wereld: het dateert 
 
 De Sint-Salvatorkerk is gelegen aan het Křižovnické náměstí (Kruisriddersplein), is een van de drie kerken in de Oude Stad gewijd aan Jezus in de vorm van verlosser (salvator mundi). De kerk staat vlak bij de Karelsbrug en is onderdeel van het voormalige jezuïetencollege Clementinum. De Sint-Salvatorkerk is gebouwd in barokstijl.
 
+## Karlsbrug museum
+
+![](assets/karlsbrugmuseum.jpg)
+
+Op rechteroever aan de Karlsbrug, links van de Kostel svatého Františka z Assisi (Sint-Fransiscus kerk) 
 
 ## Muzeum Bedřicha Smetany (en monument)
 

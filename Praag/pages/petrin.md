@@ -1,5 +1,11 @@
 *Vertrekken langs legioenen brug: Most Legii*
 
+## Herdenkingsmonument voor de slachtoffers van het communisme
+
+Aan de voet van de Petřín heuvel staat een herdenkingsmonument voor de slachtoffers van het communisme van Olbram Zoubek.
+
+![](assets/1280px-Ujezd_Pomnik_obetem_komunismu_front_all.jpg)
+
 ## Uitzicht vanop Petřín-uitkijktoren
 
 ![](assets/Prague%20view%20from%20Petrin%20Tower%20top%20wide.jpg)
@@ -36,6 +42,8 @@ Het klooster werd herbouwd in gotische stijl nadat het complex in 1258 vernield 
 In de loop van de zeventiende en achttiende eeuw werd het klooster uitgebreid, ditmaal in de barokstijl. Na een bombardement door het Franse leger in 1742 werden de meeste middeleeuwse gotische gebouwen heropgebouwd in barokstijl.
 
 [http://www.strahovskyklaster.cz/en/](http://www.strahovskyklaster.cz/en/)
+
+*Jammer genoeg kan je de bibliotheek zelf niet binnen. Je kan enkel van aan de deur een blik werpen in de bibliotheek en de 'filosofenzaal'*
 
 ## Loreta heiligdom
 
