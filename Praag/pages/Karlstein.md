@@ -1,6 +1,7 @@
 ## Karlstejn
 
 ![](assets/bddf684afbe3494dc8abea12455fc630.jpg)
+[link](assets/bddf684afbe3494dc8abea12455fc630.jpg)
 
 Kasteel Karlstein (Tsjechisch:hrad Karlštejn) is een 14e-eeuws gotisch kasteel in Karlštejn in Tsjechië, zo'n 20 km westelijk van Praag.
 

@@ -38,7 +38,7 @@
                                 <rect key="frame" x="0.0" y="28" width="375" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="F07-eo-bPU" id="nhF-xP-pxR">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="43"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
                                 <connections>
@@ -68,24 +68,11 @@
                     <view key="view" contentMode="scaleToFill" id="WZI-YZ-mfK">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2vo-Pg-vUZ">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                                <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                            </webView>
-                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <constraints>
-                            <constraint firstItem="CHh-QK-I3g" firstAttribute="top" secondItem="2vo-Pg-vUZ" secondAttribute="bottom" id="36O-X9-Ibi"/>
-                            <constraint firstItem="2vo-Pg-vUZ" firstAttribute="leading" secondItem="WZI-YZ-mfK" secondAttribute="leading" id="CDi-hU-ayb"/>
-                            <constraint firstAttribute="trailing" secondItem="2vo-Pg-vUZ" secondAttribute="trailing" id="Igy-0K-da6"/>
-                            <constraint firstItem="2vo-Pg-vUZ" firstAttribute="top" secondItem="WZI-YZ-mfK" secondAttribute="top" id="YzQ-sv-BAC"/>
-                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Title" id="WZg-in-L0C"/>
                     <connections>
                         <outlet property="pageTitle" destination="WZg-in-L0C" id="Xbu-0j-4df"/>
-                        <outlet property="pageView" destination="2vo-Pg-vUZ" id="aTj-MV-9Na"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="sVR-5Y-THm" userLabel="First Responder" sceneMemberID="firstResponder"/>

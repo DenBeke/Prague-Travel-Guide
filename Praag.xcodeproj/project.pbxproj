@@ -16,7 +16,23 @@
 		C76D30A21E45BB7B00376C1E /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A11E45BB7B00376C1E /* Media.xcassets */; };
 		C76D30A41E45BCAB00376C1E /* praag-sky.png in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A31E45BCAB00376C1E /* praag-sky.png */; };
 		C76D30A61E463D6E00376C1E /* pages in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A51E463D6E00376C1E /* pages */; };
+		C7CF23621E4F59A3008E4EDD /* Down.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23601E4F5868008E4EDD /* Down.framework */; };
+		C7CF23631E4F59A3008E4EDD /* Down.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23601E4F5868008E4EDD /* Down.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C7CF23641E4F59A3008E4EDD /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				C7CF23631E4F59A3008E4EDD /* Down.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		C76D30841E4539FE00376C1E /* Praag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Praag.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -30,6 +46,7 @@
 		C76D30A11E45BB7B00376C1E /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		C76D30A31E45BCAB00376C1E /* praag-sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "praag-sky.png"; sourceTree = "<group>"; };
 		C76D30A51E463D6E00376C1E /* pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pages; sourceTree = "<group>"; };
+		C7CF23601E4F5868008E4EDD /* Down.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Down.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7CF23621E4F59A3008E4EDD /* Down.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,6 +80,7 @@
 		C76D30861E4539FE00376C1E /* Praag */ = {
 			isa = PBXGroup;
 			children = (
+				C7CF23601E4F5868008E4EDD /* Down.framework */,
 				C76D30A11E45BB7B00376C1E /* Media.xcassets */,
 				C76D30A31E45BCAB00376C1E /* praag-sky.png */,
 				C76D30A51E463D6E00376C1E /* pages */,
@@ -86,6 +105,7 @@
 				C76D30801E4539FE00376C1E /* Sources */,
 				C76D30811E4539FE00376C1E /* Frameworks */,
 				C76D30821E4539FE00376C1E /* Resources */,
+				C7CF23641E4F59A3008E4EDD /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -278,6 +298,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 2H55825CLX;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Praag",
+				);
 				INFOPLIST_FILE = Praag/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = denbeke.Praag;
@@ -291,6 +315,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 2H55825CLX;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Praag",
+				);
 				INFOPLIST_FILE = Praag/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = denbeke.Praag;
@@ -318,6 +346,7 @@
 				C76D30981E4539FE00376C1E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
