@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C7539BB31E4F789F0031AFE6 /* Down.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23651E4F7874008E4EDD /* Down.framework */; };
+		C7539BB41E4F789F0031AFE6 /* Down.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23651E4F7874008E4EDD /* Down.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		C76D30881E4539FE00376C1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30871E4539FE00376C1E /* AppDelegate.swift */; };
 		C76D308A1E4539FE00376C1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30891E4539FE00376C1E /* ViewController.swift */; };
 		C76D308D1E4539FE00376C1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76D308B1E4539FE00376C1E /* Main.storyboard */; };
@@ -16,18 +18,17 @@
 		C76D30A21E45BB7B00376C1E /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A11E45BB7B00376C1E /* Media.xcassets */; };
 		C76D30A41E45BCAB00376C1E /* praag-sky.png in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A31E45BCAB00376C1E /* praag-sky.png */; };
 		C76D30A61E463D6E00376C1E /* pages in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A51E463D6E00376C1E /* pages */; };
-		C7CF23621E4F59A3008E4EDD /* Down.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23601E4F5868008E4EDD /* Down.framework */; };
-		C7CF23631E4F59A3008E4EDD /* Down.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23601E4F5868008E4EDD /* Down.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C7CF23661E4F7874008E4EDD /* Down.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23651E4F7874008E4EDD /* Down.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		C7CF23641E4F59A3008E4EDD /* Embed Frameworks */ = {
+		C7539BB51E4F789F0031AFE6 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				C7CF23631E4F59A3008E4EDD /* Down.framework in Embed Frameworks */,
+				C7539BB41E4F789F0031AFE6 /* Down.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -46,7 +47,7 @@
 		C76D30A11E45BB7B00376C1E /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		C76D30A31E45BCAB00376C1E /* praag-sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "praag-sky.png"; sourceTree = "<group>"; };
 		C76D30A51E463D6E00376C1E /* pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pages; sourceTree = "<group>"; };
-		C7CF23601E4F5868008E4EDD /* Down.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Down.framework; sourceTree = "<group>"; };
+		C7CF23651E4F7874008E4EDD /* Down.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Down.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +55,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C7CF23621E4F59A3008E4EDD /* Down.framework in Frameworks */,
+				C7539BB31E4F789F0031AFE6 /* Down.framework in Frameworks */,
+				C7CF23661E4F7874008E4EDD /* Down.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -80,8 +82,8 @@
 		C76D30861E4539FE00376C1E /* Praag */ = {
 			isa = PBXGroup;
 			children = (
-				C7CF23601E4F5868008E4EDD /* Down.framework */,
 				C76D30A11E45BB7B00376C1E /* Media.xcassets */,
+				C7CF23651E4F7874008E4EDD /* Down.framework */,
 				C76D30A31E45BCAB00376C1E /* praag-sky.png */,
 				C76D30A51E463D6E00376C1E /* pages */,
 				C76D30871E4539FE00376C1E /* AppDelegate.swift */,
@@ -105,7 +107,7 @@
 				C76D30801E4539FE00376C1E /* Sources */,
 				C76D30811E4539FE00376C1E /* Frameworks */,
 				C76D30821E4539FE00376C1E /* Resources */,
-				C7CF23641E4F59A3008E4EDD /* Embed Frameworks */,
+				C7539BB51E4F789F0031AFE6 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
