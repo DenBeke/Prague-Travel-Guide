@@ -1,7 +1,9 @@
 Prague Travel Guide
 ===================
 
-*iPhone app with tourist information about Prague*
+*iPhone/iPad app with tourist information about Prague*
+
+![](https://denbeke.be/blog/wp-content/uploads/2017/02/Prague-Travel-Guide-iPhone-app-e1486912766555.png)
 
 Instead of creating a Word document with all interesting places to visit in Prague, I created an iPhone app with all that information.
 
