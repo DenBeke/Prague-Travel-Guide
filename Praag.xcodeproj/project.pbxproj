@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08D5711282CBB88F813B29E1 /* Pods_Praag.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F53B01B68367E80D5B399DD2 /* Pods_Praag.framework */; };
 		C7539BB31E4F789F0031AFE6 /* Down.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23651E4F7874008E4EDD /* Down.framework */; };
-		C7539BB41E4F789F0031AFE6 /* Down.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23651E4F7874008E4EDD /* Down.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		C76D30881E4539FE00376C1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30871E4539FE00376C1E /* AppDelegate.swift */; };
 		C76D308A1E4539FE00376C1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C76D30891E4539FE00376C1E /* ViewController.swift */; };
 		C76D308D1E4539FE00376C1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C76D308B1E4539FE00376C1E /* Main.storyboard */; };
@@ -18,7 +18,7 @@
 		C76D30A21E45BB7B00376C1E /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A11E45BB7B00376C1E /* Media.xcassets */; };
 		C76D30A41E45BCAB00376C1E /* praag-sky.png in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A31E45BCAB00376C1E /* praag-sky.png */; };
 		C76D30A61E463D6E00376C1E /* pages in Resources */ = {isa = PBXBuildFile; fileRef = C76D30A51E463D6E00376C1E /* pages */; };
-		C7CF23661E4F7874008E4EDD /* Down.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7CF23651E4F7874008E4EDD /* Down.framework */; };
+		C79187551E509553009AFEFA /* Exception.swift in Sources */ = {isa = PBXBuildFile; fileRef = C79187541E509553009AFEFA /* Exception.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,7 +28,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				C7539BB41E4F789F0031AFE6 /* Down.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -36,6 +35,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		33FA455F784D50EFC4CE4A29 /* Pods-Praag.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Praag.release.xcconfig"; path = "Pods/Target Support Files/Pods-Praag/Pods-Praag.release.xcconfig"; sourceTree = "<group>"; };
 		C76D30841E4539FE00376C1E /* Praag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Praag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C76D30871E4539FE00376C1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C76D30891E4539FE00376C1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,7 +47,10 @@
 		C76D30A11E45BB7B00376C1E /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
 		C76D30A31E45BCAB00376C1E /* praag-sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "praag-sky.png"; sourceTree = "<group>"; };
 		C76D30A51E463D6E00376C1E /* pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pages; sourceTree = "<group>"; };
-		C7CF23651E4F7874008E4EDD /* Down.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Down.framework; sourceTree = "<group>"; };
+		C79187541E509553009AFEFA /* Exception.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Exception.swift; sourceTree = "<group>"; };
+		C7CF23651E4F7874008E4EDD /* Down.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Down.framework; path = "/Users/Mathias/Code/Prague-Travel-Guide/Praag/Down.framework"; sourceTree = "<absolute>"; };
+		EB86122BD90709617658D218 /* Pods-Praag.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Praag.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Praag/Pods-Praag.debug.xcconfig"; sourceTree = "<group>"; };
+		F53B01B68367E80D5B399DD2 /* Pods_Praag.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Praag.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,18 +59,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7539BB31E4F789F0031AFE6 /* Down.framework in Frameworks */,
-				C7CF23661E4F7874008E4EDD /* Down.framework in Frameworks */,
+				08D5711282CBB88F813B29E1 /* Pods_Praag.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		24732A40930567F31E2660AF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EB86122BD90709617658D218 /* Pods-Praag.debug.xcconfig */,
+				33FA455F784D50EFC4CE4A29 /* Pods-Praag.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		C76D307B1E4539FE00376C1E = {
 			isa = PBXGroup;
 			children = (
 				C76D30861E4539FE00376C1E /* Praag */,
 				C76D30851E4539FE00376C1E /* Products */,
+				24732A40930567F31E2660AF /* Pods */,
+				F189F124B6AF109A2AD99E21 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -83,11 +97,11 @@
 			isa = PBXGroup;
 			children = (
 				C76D30A11E45BB7B00376C1E /* Media.xcassets */,
-				C7CF23651E4F7874008E4EDD /* Down.framework */,
 				C76D30A31E45BCAB00376C1E /* praag-sky.png */,
 				C76D30A51E463D6E00376C1E /* pages */,
 				C76D30871E4539FE00376C1E /* AppDelegate.swift */,
 				C76D30891E4539FE00376C1E /* ViewController.swift */,
+				C79187541E509553009AFEFA /* Exception.swift */,
 				C76D308B1E4539FE00376C1E /* Main.storyboard */,
 				C76D30991E453B4900376C1E /* TableViewController.swift */,
 				C76D309B1E4541D800376C1E /* page.swift */,
@@ -97,6 +111,14 @@
 			path = Praag;
 			sourceTree = "<group>";
 		};
+		F189F124B6AF109A2AD99E21 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F53B01B68367E80D5B399DD2 /* Pods_Praag.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -104,10 +126,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C76D30961E4539FE00376C1E /* Build configuration list for PBXNativeTarget "Praag" */;
 			buildPhases = (
+				3D1FB450140D989AE5482900 /* [CP] Check Pods Manifest.lock */,
 				C76D30801E4539FE00376C1E /* Sources */,
 				C76D30811E4539FE00376C1E /* Frameworks */,
 				C76D30821E4539FE00376C1E /* Resources */,
 				C7539BB51E4F789F0031AFE6 /* Embed Frameworks */,
+				D7BDAD16CC276C06AF7F66B5 /* [CP] Embed Pods Frameworks */,
+				1044FDFFE3C3312170093489 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -168,12 +193,61 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1044FDFFE3C3312170093489 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Praag/Pods-Praag-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3D1FB450140D989AE5482900 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D7BDAD16CC276C06AF7F66B5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Praag/Pods-Praag-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		C76D30801E4539FE00376C1E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				C76D308A1E4539FE00376C1E /* ViewController.swift in Sources */,
+				C79187551E509553009AFEFA /* Exception.swift in Sources */,
 				C76D309A1E453B4900376C1E /* TableViewController.swift in Sources */,
 				C76D309C1E4541D800376C1E /* page.swift in Sources */,
 				C76D30881E4539FE00376C1E /* AppDelegate.swift in Sources */,
@@ -297,6 +371,7 @@
 		};
 		C76D30971E4539FE00376C1E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EB86122BD90709617658D218 /* Pods-Praag.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 2H55825CLX;
@@ -314,6 +389,7 @@
 		};
 		C76D30981E4539FE00376C1E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 33FA455F784D50EFC4CE4A29 /* Pods-Praag.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 2H55825CLX;

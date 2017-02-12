@@ -20,12 +20,17 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-
+        
         do {
             pageTitle.title = inputPage.name
             
             // Load markdown file
-            let content = try String(contentsOfFile: Bundle.main.path(forResource: "pages/\(inputPage.url)", ofType: "md")!)
+            let md =  Bundle.main.path(forResource: "pages/\(inputPage.url)", ofType: "md")
+            if md == nil {
+                print("Couldn't load input page: " + "pages/\(inputPage.url)")
+                throw Exception.FileError
+            }
+            let content = try String(contentsOfFile: md!)
             
             // Convert markdown to html
             let down = Down(markdownString: content)
@@ -35,16 +40,21 @@ class ViewController: UIViewController {
             
             // Create webview and add html to it
             webView = WKWebView(frame: self.view.bounds)
+            webView?.autoresizingMask = [.flexibleWidth, .flexibleHeight]
+            
             var template = try String(contentsOf: base.appendingPathComponent("index.html"))
             template = template.replacingOccurrences(of: "DOWN_HTML", with: html)
             _ = webView?.loadHTMLString(template, baseURL: base)
+            
+            if webView == nil {
+                print("Couldn't render view")
+                throw Exception.RenderError
+            }
+            view.addSubview(webView!)
 
         } catch {
             alert(title: "Ooops", message: "Couldn't load this page")
         }
-        
-        
-        view.addSubview(webView!)
         
     }
     
